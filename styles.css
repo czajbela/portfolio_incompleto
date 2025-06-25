@@ -44,8 +44,9 @@ main {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 50px;
+    gap: 65px;
     flex-wrap: wrap;
+}
 }
 
 .disciplina {
