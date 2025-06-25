@@ -25,12 +25,12 @@ header {
     display: flex; 
     width: 100%;
     background-color: var(--azul-escuro);
-    padding: 1rem;
+    padding: 20px;
     justify-content: center;
 }
 
 .portfolio h1{
-    font-size: 4rem;
+    font-size: 20px;
     color: var(--bege-claro);
 }
 main {
@@ -52,9 +52,9 @@ main {
     display: flex;
     justify-content: center;
     background-color: var(--bege-claro);
-    border-radius: 10px;
-    padding: 30px;
-    width: 80%;
+    border-radius: 20px;
+    padding: 10px;
+    width: 50%;
     min-width: 280px;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
